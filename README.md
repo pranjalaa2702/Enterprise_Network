@@ -39,7 +39,7 @@
 ## 💡 How to Use
 
 1. Install Cisco Packet Tracer (recommended version X.X).  
-2. Open `EnterpriseNetwork.pkt` file in Cisco Packet Tracer.  
+2. Open `PES1UG23CS442_PRANJALAA_SecureCompanyNetwork.pkt` file in Cisco Packet Tracer.  
 3. Review device setup and VLAN configurations.  
 4. Run simulations to verify connectivity, routing, and ACLs.  
 5. Modify and experiment with configurations to learn more.
